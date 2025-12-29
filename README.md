@@ -32,15 +32,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrishail7&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrishail7&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrishail7&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrishail7&theme=tokyonight&layout=compact&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrishail7&theme=tokyonight&hide_border=true" alt="Streak Stats" width="89%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrishail7&theme=tokyonight&hide_border=true" width="89%" />
 </p>
 
 ---
@@ -48,4 +47,4 @@
 ### 📈 Profile Statistics
 | Profile Visitors |
 | :--- |
-| ![Visitor Count](https://visitcount.itsvg.in/api?id=shrishail7&icon=0&color=4) |
+| ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shrishail7) |
